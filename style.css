@@ -2,34 +2,42 @@
   padding: 0;
   margin: 0;
 }
+
 h1 {
   padding: auto;
   text-align: center;
-  background: rgb(236, 236, 236);
+  background: #ececec;
 }
+
 p {
   padding: auto;
   text-align: center;
 }
+
 section {
-  background: rgb(236, 236, 236);
+  background: #ececec;
 }
+
 img {
   padding-left: 350px;
 }
+
 figcaption {
  padding-left: 200px;
 }
+
 form {
-  background-color: rgb(236, 236, 236);
+  background-color: #ececec;
   padding-left: 25rem;
   padding-right: 25rem;
 
 }
+
 main {
   padding: 30px;
   padding-left: 30px;
 }
+
 footer {
   padding: 20px;
 
