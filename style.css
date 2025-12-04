@@ -23,14 +23,13 @@ img {
 }
 
 figcaption {
- padding-left: 200px;
+  padding-left: 200px;
 }
 
 form {
   background-color: #ececec;
   padding-left: 25rem;
   padding-right: 25rem;
-
 }
 
 main {
@@ -40,5 +39,4 @@ main {
 
 footer {
   padding: 20px;
-
 }
