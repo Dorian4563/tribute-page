@@ -1,4 +1,4 @@
 # Dr. Norman Borlaug
-# tribute page informations
+## tribute page informations
 
 
