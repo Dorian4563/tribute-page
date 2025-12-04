@@ -40,3 +40,8 @@ main {
 footer {
   padding: 20px;
 }
+
+section ul li span {
+  font-weight: 800;
+}
+
