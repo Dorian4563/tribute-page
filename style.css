@@ -1,37 +1,36 @@
-*{
-    padding: 0;
-    margin: 0;
+* {
+  padding: 0;
+  margin: 0;
 }
-h1{
-    padding: auto;
-    text-align: center;
-    background: rgb(236, 236, 236);
+h1 {
+  padding: auto;
+  text-align: center;
+  background: rgb(236, 236, 236);
 }
-p{
-    padding: auto;
-    text-align: center;
+p {
+  padding: auto;
+  text-align: center;
 }
-section{
-    background: rgb(236, 236, 236);
+section {
+  background: rgb(236, 236, 236);
 }
-img{
-    padding-left: 350px;
+img {
+  padding-left: 350px;
 }
-figcaption{
-    padding-left: 200px;
+figcaption {
+ padding-left: 200px;
 }
-form{
-    
-    background-color: rgb(236, 236, 236);
-    padding-left: 25rem;
-    padding-right: 25rem;
+form {
+  background-color: rgb(236, 236, 236);
+  padding-left: 25rem;
+  padding-right: 25rem;
 
 }
-main{
-    padding: 30px;
-    padding-left: 30px;
+main {
+  padding: 30px;
+  padding-left: 30px;
 }
 footer {
-    padding: 20px;
+  padding: 20px;
 
 }
