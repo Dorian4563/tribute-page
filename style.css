@@ -1,0 +1,47 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  padding: auto;
+  text-align: center;
+  background: #ececec;
+}
+
+p {
+  padding: auto;
+  text-align: center;
+}
+
+section {
+  background: #ececec;
+}
+
+img {
+  padding-left: 400px;
+  text-align: center;
+}
+
+figcaption {
+  padding-left: 200px;
+}
+
+form {
+  background-color: #ececec;
+  padding-left: 25rem;
+  padding-right: 25rem;
+}
+
+main {
+  padding: 30px;
+  padding-left: 30px;
+}
+
+footer {
+  padding: 20px;
+}
+
+section ul li span {
+  font-weight: 800;
+}
