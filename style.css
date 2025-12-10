@@ -1,0 +1,64 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+body {
+  padding: 2rem 0;
+}
+
+h1 {
+  text-align: center;
+  padding: 20px 0;
+  background: #ececec;
+}
+
+.header-paragraph {
+  text-align: center;
+  padding: 1rem 0;
+}
+
+figure {
+  margin: 0 auto;
+  width: 80vw;
+}
+
+img {
+  width: 100%;
+}
+
+figcaption {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.tribute-container {
+  width: 45vw;
+  margin: 0 auto;
+}
+
+h2 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 2rem;
+  padding: 20px 0;
+}
+
+blockquote {
+  margin: 0 auto;
+  font-size: 1rem;
+  padding: 1rem 0;
+  width: 47vw;
+  font-weight: lighter;
+}
+
+h3 {
+  text-align: center;
+}
+
+section ul li span {
+  font-size: 14px;
+  width: 47vw;
+  margin: 0 auto;
+}
